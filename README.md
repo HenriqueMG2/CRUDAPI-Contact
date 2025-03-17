@@ -7,7 +7,6 @@ Este projeto é uma API RESTful desenvolvida em .NET 8 utilizando Entity Framewo
 - Entity Framework Core
 - PostgreSQL
 - Swagger (Swashbuckle)
-- JWT Authentication
 - CORS
 
 ## Como Executar o Projeto

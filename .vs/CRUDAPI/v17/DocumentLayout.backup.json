@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CRUD.API\\CRUDAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|c:\\projetos\\crud.api\\crudapi\\crudapi\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|c:\\projetos\\crud.api\\crudapi\\crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|c:\\projetos\\crud.api\\crudapi\\crudapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|c:\\projetos\\crud.api\\crudapi\\crudapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|c:\\projetos\\crud.api\\crudapi\\crudapi\\crudapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\crudapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|c:\\projetos\\crud.api\\crudapi\\crudapi\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|c:\\projetos\\crud.api\\crudapi\\crudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|c:\\projetos\\crud.api\\crudapi\\crudapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|c:\\projetos\\crud.api\\crudapi\\crudapi\\migrations\\20250315174454_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\migrations\\20250315174454_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|c:\\projetos\\crud.api\\crudapi\\crudapi\\crudapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\crudapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|c:\\projetos\\crud.api\\crudapi\\crudapi\\mapping\\contactmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\mapping\\contactmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|c:\\projetos\\crud.api\\crudapi\\crudapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1B3C47-6BD3-447A-899D-F03F35F6ED58}|CRUDAPI\\CRUDAPI.csproj|solutionrelative:crudapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRUDAPI.http",
+              "DocumentMoniker": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\CRUDAPI.http",
+              "RelativeDocumentMoniker": "CRUDAPI\\CRUDAPI.http",
+              "ToolTip": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\CRUDAPI.http",
+              "RelativeToolTip": "CRUDAPI\\CRUDAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-15T18:11:35.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Program.cs*",
+              "RelativeToolTip": "CRUDAPI\\Program.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:42:44.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Controllers\\ContactController.cs*",
+              "RelativeToolTip": "CRUDAPI\\Controllers\\ContactController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:50:41.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDAPI\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\appsettings.json",
+              "RelativeToolTip": "CRUDAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T17:14:02.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CRUDAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\appsettings.Development.json",
+              "RelativeToolTip": "CRUDAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T17:14:03.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250315174454_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Migrations\\20250315174454_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Migrations\\20250315174454_InitialCreate.cs",
+              "ToolTip": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Migrations\\20250315174454_InitialCreate.cs",
+              "RelativeToolTip": "CRUDAPI\\Migrations\\20250315174454_InitialCreate.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:44:55.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Context\\AppDbContext.cs*",
+              "RelativeToolTip": "CRUDAPI\\Context\\AppDbContext.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:50:27.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Repository\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Repository\\IContactRepository.cs",
+              "ToolTip": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Repository\\IContactRepository.cs",
+              "RelativeToolTip": "CRUDAPI\\Repository\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:55:06.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Repository\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Repository\\ContactRepository.cs",
+              "ToolTip": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Repository\\ContactRepository.cs",
+              "RelativeToolTip": "CRUDAPI\\Repository\\ContactRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:55:57.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CRUDAPI.csproj",
+              "DocumentMoniker": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\CRUDAPI.csproj",
+              "RelativeDocumentMoniker": "CRUDAPI\\CRUDAPI.csproj",
+              "ToolTip": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\CRUDAPI.csproj",
+              "RelativeToolTip": "CRUDAPI\\CRUDAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T17:21:59.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactMap.cs",
+              "DocumentMoniker": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Mapping\\ContactMap.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Mapping\\ContactMap.cs",
+              "ToolTip": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Mapping\\ContactMap.cs",
+              "RelativeToolTip": "CRUDAPI\\Mapping\\ContactMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:10:21.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "CRUDAPI\\Models\\Contact.cs",
+              "ToolTip": "C:\\Projetos\\CRUD.API\\CRUDAPI\\CRUDAPI\\Models\\Contact.cs",
+              "RelativeToolTip": "CRUDAPI\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:48:25.784Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
